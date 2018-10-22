@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/mahwyst/static/js/runtime~main.6a01d1a4.js"
   },
   {
-    "revision": "e26cb766abb6e4bcec33",
-    "url": "/mahwyst/static/js/main.e26cb766.chunk.js"
+    "revision": "3cb7a3bd3b0222508952",
+    "url": "/mahwyst/static/js/main.3cb7a3bd.chunk.js"
   },
   {
     "revision": "6037797e6ebf4a3258fc",
     "url": "/mahwyst/static/js/1.6037797e.chunk.js"
   },
   {
-    "revision": "e26cb766abb6e4bcec33",
+    "revision": "3cb7a3bd3b0222508952",
     "url": "/mahwyst/static/css/main.31ca4e60.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/mahwyst/static/css/1.a00e6a5c.chunk.css"
   },
   {
-    "revision": "1564058d5d57986d2ef38a096a239756",
+    "revision": "f63d169e72e748086fa45202065b1834",
     "url": "/mahwyst/index.html"
   }
 ];
