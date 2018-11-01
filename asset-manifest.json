@@ -1,7 +1,7 @@
 {
   "main.css": "/mahwyst/static/css/main.31ca4e60.chunk.css",
-  "main.js": "/mahwyst/static/js/main.35b7cd4c.chunk.js",
-  "main.js.map": "/mahwyst/static/js/main.35b7cd4c.chunk.js.map",
+  "main.js": "/mahwyst/static/js/main.0f479c90.chunk.js",
+  "main.js.map": "/mahwyst/static/js/main.0f479c90.chunk.js.map",
   "static/css/1.a00e6a5c.chunk.css": "/mahwyst/static/css/1.a00e6a5c.chunk.css",
   "static/js/1.8e436e6e.chunk.js": "/mahwyst/static/js/1.8e436e6e.chunk.js",
   "static/js/1.8e436e6e.chunk.js.map": "/mahwyst/static/js/1.8e436e6e.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.a00e6a5c.chunk.css.map": "/mahwyst/static/css/1.a00e6a5c.chunk.css.map",
   "static/css/main.31ca4e60.chunk.css.map": "/mahwyst/static/css/main.31ca4e60.chunk.css.map",
   "index.html": "/mahwyst/index.html",
-  "precache-manifest.0dddc5d9ac9c13cabbe2fce1712a4852.js": "/mahwyst/precache-manifest.0dddc5d9ac9c13cabbe2fce1712a4852.js",
+  "precache-manifest.05a3af751f2a2d3714722d9e33d0f49c.js": "/mahwyst/precache-manifest.05a3af751f2a2d3714722d9e33d0f49c.js",
   "service-worker.js": "/mahwyst/service-worker.js"
 }
