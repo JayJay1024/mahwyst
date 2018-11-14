@@ -1,15 +1,15 @@
 {
   "main.css": "/mahwyst/static/css/main.ac6f1ca9.chunk.css",
-  "main.js": "/mahwyst/static/js/main.9979d39f.chunk.js",
-  "main.js.map": "/mahwyst/static/js/main.9979d39f.chunk.js.map",
+  "main.js": "/mahwyst/static/js/main.5f8cba50.chunk.js",
+  "main.js.map": "/mahwyst/static/js/main.5f8cba50.chunk.js.map",
   "static/css/1.37d63ca8.chunk.css": "/mahwyst/static/css/1.37d63ca8.chunk.css",
-  "static/js/1.bc16b22d.chunk.js": "/mahwyst/static/js/1.bc16b22d.chunk.js",
-  "static/js/1.bc16b22d.chunk.js.map": "/mahwyst/static/js/1.bc16b22d.chunk.js.map",
+  "static/js/1.b8ec20dc.chunk.js": "/mahwyst/static/js/1.b8ec20dc.chunk.js",
+  "static/js/1.b8ec20dc.chunk.js.map": "/mahwyst/static/js/1.b8ec20dc.chunk.js.map",
   "runtime~main.js": "/mahwyst/static/js/runtime~main.6a01d1a4.js",
   "runtime~main.js.map": "/mahwyst/static/js/runtime~main.6a01d1a4.js.map",
-  "static/css/1.37d63ca8.chunk.css.map": "/mahwyst/static/css/1.37d63ca8.chunk.css.map",
   "static/css/main.ac6f1ca9.chunk.css.map": "/mahwyst/static/css/main.ac6f1ca9.chunk.css.map",
+  "static/css/1.37d63ca8.chunk.css.map": "/mahwyst/static/css/1.37d63ca8.chunk.css.map",
   "index.html": "/mahwyst/index.html",
-  "precache-manifest.a78a8d07b0ee5c18b914570ec0167e51.js": "/mahwyst/precache-manifest.a78a8d07b0ee5c18b914570ec0167e51.js",
+  "precache-manifest.073be13a8266902d19aacca38fd20386.js": "/mahwyst/precache-manifest.073be13a8266902d19aacca38fd20386.js",
   "service-worker.js": "/mahwyst/service-worker.js"
 }
